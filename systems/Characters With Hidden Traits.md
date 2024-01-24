@@ -8,7 +8,7 @@ His features were good--a straight nose, firm mouth, broad forehead, from which 
 Evidently this was no vulgar assassin.
 
 ---
-This system has three steps: Mislead -> Justify -> Truth
+This system has three steps: Mislead → Justify → Truth
 
 To use this system, there needs to a hidden trait that can't be known just by looking at the character. In fact, this system can also be used for environments (e.g., initially describing a funeral as if its a party).
 
